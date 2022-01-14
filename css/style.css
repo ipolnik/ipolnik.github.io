@@ -240,7 +240,7 @@ header.sticky {
 	color: #c79e6b;
 }
 /** Adbox **/
-#adbox {
+#mainbed {
 	height: 407px;
 	width: 938px;
 	border-color: #fff;
@@ -249,7 +249,7 @@ header.sticky {
 	margin: -10px 0 0;
 	position: relative;
 }
-#adbox span.info {
+#mainbed span.info {
 	display: inline-block;
 	font-size: 16px;
 	text-align: center;
@@ -257,12 +257,12 @@ header.sticky {
 	left: 260px;
 	bottom: 25px;
 }
-#adbox span.info em {
+#mainbed span.info em {
 	display: block;
 	font-size: 24px;
 	font-style: normal;
 }
-#adbox div.details {
+#mainbed div.details {
 	background: url(../images/bg-pattern.jpg) no-repeat left top;
 	height: 407px;
 	width: 380px;
@@ -271,7 +271,7 @@ header.sticky {
 	right: 0;
 	top: 0;
 }
-#adbox div.details h1 {
+#mainbed div.details h1 {
 	color: #241b18;
 	font-family: "Oswald";
 	font-size: 34px;
@@ -280,7 +280,7 @@ header.sticky {
 	text-align: center;
 	text-shadow: 1px 1px #fff;
 }
-#adbox div.details p {
+#mainbed div.details p {
 	color: #241b18;
 	font-size: 16px;
 	padding-left: 10px;
